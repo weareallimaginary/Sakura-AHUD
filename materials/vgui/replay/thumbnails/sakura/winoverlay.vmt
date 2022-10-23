@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/sakura/winoverlay"
+	"$translucent" 1
+}
